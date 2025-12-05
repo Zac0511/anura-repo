@@ -1,0 +1,14 @@
+{
+    "name": "Numworks Calculator",
+    "type": "auto",
+    "icon": "icon.png",
+    "package": "Zac0511.numworks",
+    "index": "numworks-simulator-24.10.0.html",
+    "version": "24.10.0",
+    "wininfo": {
+        "title": "Numworks Calculator",
+        "width": "500px",
+        "height": "913px"
+    },
+    "category": "tools"
+}

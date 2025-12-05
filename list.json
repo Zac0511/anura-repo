@@ -1,13 +1,13 @@
 {
     "apps": [
       {
-        "name": "NAME",
-        "summary": "(tiny app description)",
-        "desc": "(longer app description)",
-        "package": "Zac0511.package",
+        "name": "Numworks Calculator",
+        "summary": "The Numworks Calculator emulator for AnuraOS",
+        "desc": "The Numworks Emulator is a software application that allows you to run Numworks calculators on your computer. It is a great way to learn how to use Numworks calculators, or to simply play around with them. The emulator is very easy to use, and it comes with a variety of features that make it a great tool for learning.",
+        "package": "Zac0511.numworks",
         "data": "app.zip",
-        "version": "1.0.0",
-        "category": "none"
+        "version": "24.10.0",
+        "category": "tools"
       }
     ]
   }

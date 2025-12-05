@@ -12,4 +12,4 @@ You are now able to download apps from this repo.
 
 ## Apps
 List of apps included in this repository :
-* 
+* [Numworks Calculator](./apps/Zac0511.numworks)
