@@ -1,9 +1,0 @@
-{
-    "name": "Example app",
-    "summary": "(tiny app description)",
-    "desc": "(longer app description)",
-    "package": "Zac0511.app_example",
-    "data": "app.zip",
-    "version": "1.0.0",
-    "category": "tools"
-}

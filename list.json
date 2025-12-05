@@ -1,13 +1,13 @@
 {
     "apps": [
       {
-        "name": "Example app",
+        "name": "NAME",
         "summary": "(tiny app description)",
         "desc": "(longer app description)",
-        "package": "Zac0511.app_example",
+        "package": "Zac0511.package",
         "data": "app.zip",
         "version": "1.0.0",
-        "category": "tools"
+        "category": "none"
       }
     ]
   }
