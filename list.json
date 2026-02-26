@@ -7,7 +7,7 @@
         "desc": "The Numworks Emulator is a software application that allows you to run Numworks calculators on your computer. It is a great way to learn how to use Numworks calculators, or to simply play around with them. The emulator is very easy to use, and it comes with a variety of features that make it a great tool for learning.",
         "package": "Zac0511.numworks",
         "data": "app.zip",
-        "version": "24.10.0",
+        "version": "25.2.2",
         "category": "tools"
       }
     ]
